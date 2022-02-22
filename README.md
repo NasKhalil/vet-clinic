@@ -14,6 +14,13 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ## Authors
 
+👤 **KHALIL NASRI**
+
+- GitHub: [@NasKhalil](https://github.com/NasKhalil)
+- Twitter: [@KhalilNasri92](https://twitter.com/KhalilNasri92)
+- LinkedIn: [khalil-Nasri](https://www.linkedin.com/in/nasri-khalil-androdev/)
+- Email: khalil.nasri2021@gmail.com
+
 👤 **AHMED REDA**
 
 - GitHub: [@ReAliens](https://github.com/ReAliens)

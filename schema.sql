@@ -86,6 +86,6 @@ ADD
 
 CREATE INDEX animal_id_desc ON visits (animals_id DESC);
 
-CREATE INDEX vet_id_desc ON visits (vets_id DESC);
+CREATE INDEX vet_id ON visits (vets_id);
 
-CREATE INDEX email_desc ON owners (lower(email) DESC);
+CREATE INDEX email ON owners (email);
